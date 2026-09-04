@@ -262,15 +262,33 @@ When status changes, update `rules/feature-status.md` and the relevant section o
 then let the copy follow. Never the other way around. New market input goes to `ops/signal-log.md`
 and is triaged on the cadence in `ops/review-cadence.md`.
 
-Run the audit before any hand-off:
+### Installing the skill that maintains this brain
+
+This repository was built with the Go-to-Market Brain skill, which also holds the procedures for
+maintaining it: UPDATE mode for logging a signal and routing it, OPERATE mode for producing an
+asset against a built brain, and the audit script. It is MIT licensed and is deliberately not
+vendored here, because its own template files carry placeholders that the audit would flag inside
+this repository.
+
+Install it once, alongside this checkout:
 
 ```bash
-python3 scripts/audit_brain.py .        # from the GTM Brain skill
+git clone https://github.com/alielshenawy1/Ali-GTM-Brain-Skill ~/gtm/gtm-brain-skill
+cp -r ~/gtm/gtm-brain-skill/skills/* .claude/skills/     # project scope, or ~/.claude/skills for every project
+```
+
+Then run the audit before any hand-off:
+
+```bash
+python3 ~/gtm/gtm-brain-skill/skills/go-to-market-brain/scripts/audit_brain.py .
 ```
 
 It checks required files, broken links, index coverage, size budgets, the brain's own writing rules
 inside its own prose, unfilled placeholders, ledger staleness, adapter dates, and whether the
-compounding loop is actually running.
+compounding loop is actually running. This brain currently passes with **0 errors and 0 warnings**.
+
+If you do install the skill into `.claude/skills/` in this repository, add that path to the audit's
+skip list or run the audit from a checkout that does not contain it.
 
 ---
 
