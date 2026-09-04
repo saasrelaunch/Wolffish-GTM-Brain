@@ -1,0 +1,76 @@
+# Wolffish Cloud GTM
+
+> The go-to-market for Wolffish Cloud, a Saudi-registered company selling an agentic harness, a
+> platform control plane and a cloud service to regulated enterprises in the Kingdom of Saudi
+> Arabia, exclusively. Agents run on the employee's own machine and inference runs on the
+> customer's own account, so there is no vendor-side data path. Delivery capacity is four to six
+> deployments a year against about twenty named accounts, which is why this go-to-market is built
+> on relationships and events rather than volume. This file indexes the repository for agents.
+> Start with the master context, then the rules, then the task-specific reference.
+
+## Source of truth
+- [Master GTM context](context/Wolffish_GTM_Master_Context.md): sixteen numbered sections covering
+  strategy, ICP, positioning, messaging, funnels and campaigns. Section 15 is the lookup cheatsheet.
+
+## Control layer, read before writing
+- [Writing rules](rules/writing-rules.md): mechanics, tone, the bilingual rule, banned words.
+- [Do not say](rules/do-not-say.md): forbidden claims, safe replacements, superlative scoping.
+- [Capability status](rules/feature-status.md): shipped, partial, in build, roadmap, per capability.
+- [Glossary](rules/glossary.md): canonical vocabulary and the residency distinction.
+
+## Reference, loaded on demand
+- [Relationship engine](reference/relationship-engine.md): the channel engine. Thesis, archetypes,
+  the refusal reasoning, and the plan, write and edit method. Load for any channel task.
+- [Saudi regulatory file](reference/saudi-regulatory-file.md): the instruments that decide which
+  vendors are permitted before they decide which are best.
+- [Positioning](reference/positioning.md): category, what leads, the one-line statement.
+- [Positioning verdict](reference/positioning-verdict.md): the strategic fork that was settled.
+- [ICP and personas](reference/icp-personas.md): who is sold to, and who is not.
+- [Buying committee](reference/buying-committee.md): the six roles, the sequence, who blocks.
+- [Competitive analysis](reference/competitive-analysis.md): market shape, scoring vectors, wedge.
+- [Competitor battlecards](reference/competitor-battlecards.md): per rival, strength, gap, how we win.
+- [Feature matrix](reference/feature-matrix.md): what leads messaging, what is table stakes.
+- [Customer journey](reference/customer-journey.md): seven stages per audience, with the calendar.
+- [Value proposition, ICP 1](reference/value-proposition-icp1.md): the founder-led audience.
+- [Value proposition, ICP 2](reference/value-proposition-icp2.md): the partner-reached audience.
+- [Objection handling](reference/objection-handling.md): the recurring pushbacks, honest answers.
+- [Pricing model](reference/pricing-model.md): three lines, landed cost, the scope ladder.
+- [Offer metrics audit](reference/offer-metrics-audit.md): six findings, including the unreconciled
+  offer matrix and the uncapped commitment.
+- [Marketing campaigns](reference/marketing-campaigns.md): channel shares and the build sequence.
+- [Lead magnet](reference/lead-magnet.md): the Kingdom AI Exposure Scorecard specification.
+
+## Execution layer
+- `templates/`: one per channel in the mix and no more. Start at `templates/README.md`.
+- `examples/`: the approved voice reference, one per major asset type, each annotated with why it
+  works. Start at `examples/README.md`.
+- `prompts/common-tasks.md`: filled, runnable prompts for recurring jobs, including the three
+  channels that deliberately have no prompts.
+- `pages/`: finished long-form assets. Update rather than rewrite.
+- [Security officer site page](pages/security-officer-site-page.md): the live-test asset, produced
+  using only this brain.
+
+## Operations and state
+- `ops/copy-bank.md`: approved language and the closed set of proof points, safe to reuse verbatim.
+- `ops/decisions.md`: what was decided, when, why, and what it did not change.
+- `ops/signal-log.md`: raw market input, verbatim, with its disposition.
+- `ops/asset-index.md`: where the sources, surfaces and adapters live.
+- `ops/QA-checklist.md`: the pre-ship gate.
+- `ops/review-cadence.md`: who reviews what, how often, and when a file is stale.
+
+## Human documentation
+- [Use cases](docs/use-cases.md): what the founder does with this repository, day by day.
+- [Integration map](docs/integration-map.md): direct connections, indirect connections, and the
+  tools this brain governs without being installed in them.
+- [Diagrams](docs/diagrams.md): the architecture, the operating loop, the funnel and the tool map.
+- [Operating rhythm](docs/operating-rhythm.md): the daily, weekly, monthly and quarterly cycle.
+
+## Portability, doors for other tools
+- `adapters/`: one pointer file per tool in use, each naming the same load order and no content.
+- `adapters/portable-control-layer.md`: dated paste-in version for chat models with no file access.
+  Regenerate whenever a ledger changes.
+
+## Sources and snapshots
+- `sources/manifest.md`: every source artifact, what it settles, and the conflicts found.
+- `sources/raw/` and `sources/extracted/`: the originals and their machine-readable dumps.
+- `snapshots/`: dated captures, each ending in what it changed or an explicit note that nothing did.

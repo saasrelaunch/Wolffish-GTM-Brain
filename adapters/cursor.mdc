@@ -1,0 +1,25 @@
+---
+description: The Wolffish Cloud go-to-market brain. Load before any customer-facing copy, positioning, messaging, pricing or competitive work.
+globs:
+alwaysApply: false
+---
+
+The Wolffish Cloud go-to-market lives at `~/gtm/Wolffish-GTM-Brain` and is the source of truth for
+positioning, messaging, claims and voice. Change that path if the brain is checked out elsewhere.
+
+Read in this order before writing anything customer-facing: `AGENTS.md`, then
+`rules/writing-rules.md`, `rules/do-not-say.md`, `rules/feature-status.md` and `rules/glossary.md`.
+For any channel task load `reference/relationship-engine.md`, which is the channel engine.
+
+Pick the audience first and never blend them: the security officer, the finance director, and the
+partner-reached institutions of ICP 2.
+
+Non-negotiables. Kingdom of Saudi Arabia only. No proof point outside the closed set in
+`ops/copy-bank.md`, because there is no reference customer yet. Every capability carries its status
+flag in the same sentence. Landed cost on both sides, never the seat price alone against a
+competitor seat price. Never position against HUMAIN, neutralise in one sentence. Nothing flagged
+IN BUILD or ROADMAP is demonstrated. Automated outreach sequencing, volume cold email and paid
+social are refused: decline, say why in one sentence, offer the in-scope alternative.
+
+Run `ops/QA-checklist.md` against the draft before returning it. New market input goes to
+`ops/signal-log.md` first, never straight into the copy.
