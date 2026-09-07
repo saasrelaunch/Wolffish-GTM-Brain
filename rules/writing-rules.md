@@ -53,14 +53,22 @@ worst failure available here, because the output looks correct.
 
 ## Channel discipline
 
-This go-to-market produces for: events and physical presence, warm introduction and the sponsor
+**The two primary channels are outbound at scale:** Instantly for cold email and HeyReach for
+LinkedIn. They carry roughly fifty-five percent of expected qualified pipeline between them.
+
+The supporting channels are events and physical presence, warm introduction and the sponsor
 network, founder-led organic writing on professional and Arabic social platforms, messaging apps
-after an introduction, channel partner co-sell, public tender from year two, and the owned layer
+after a reply has landed, channel partner co-sell, public tender from year two, and the owned layer
 of site, scorecard and calculator.
 
-It refuses: automated outreach sequencing, volume cold email, and paid social. If asked for any of
-the three, decline, name the reason in one sentence, and offer the in-scope alternative. Do not
-quietly produce a softer version.
+**Execution constraints on the two primary channels, and they are rules rather than preferences.**
+Send Sunday to Thursday, never Friday, and pause for Ramadan. No merge tag beyond first name and
+company, with every Arabic first name transliteration verified before send. Sending domains stay
+separate from the primary domain. The Dream 100 sits on a permanent suppression list in both tools
+and is opened by introduction only. Every sequence ends at the same single call to action.
+
+It refuses: paid social. If asked, decline, name the reason in one sentence, and offer the outbound
+sequences instead. Do not quietly produce a softer version.
 
 ## Signature lines
 

@@ -3,21 +3,26 @@
 Distils the assets library. Load this to place work in a channel and to know what is already
 planned. Method behind the primary channel is in `relationship-engine.md`.
 
-## The seven channels, by expected share of qualified pipeline
+## The nine channels, by expected share of qualified pipeline
 
-| Channel | Share | Note |
-|---|---|---|
-| Events and physical presence | ~35% | Two fixed dates carry the year |
-| Warm introduction and the sponsor network | ~30% | The actual top of the funnel |
-| Founder-led organic writing, bilingual | ~15% | Makes the introduction possible |
-| Messaging apps, after introduction only | ~10% | An accelerant across the others |
-| Channel partner co-sell | ~10% in year one, more later | Converts ICP 2 from unreachable to reachable |
-| Public tender | Year two | Registration must precede a live tender, not follow it |
-| Owned: site, scorecard, calculator | Underpins all | The forwardable layer |
+| Channel | Role | Share | Note |
+|---|---|---|---|
+| **Instantly, cold email at scale** | **Primary** | **~30%** | The only channel covering the full list rather than the twenty accounts the founder can reach |
+| **HeyReach, LinkedIn outreach** | **Primary** | **~25%** | Reaches titles that publish no email address |
+| Events and physical presence | Supportive | ~15% | Two fixed dates, now the best source of verified contacts for the two above |
+| Warm introduction and the sponsor network | Supportive | ~15% | Reserved for the Dream 100 rather than the whole funnel |
+| Founder-led organic writing, bilingual | Supportive | ~5% | What makes HeyReach acceptance rates work |
+| Messaging apps, after a reply | Accelerant | across all | Never an opener |
+| Channel partner co-sell | Scaling | ~10% in year one, more later | Converts ICP 2 from unreachable to reachable |
+| Public tender | Scaling | Year two | Registration must precede a live tender, not follow it |
+| Owned: site, scorecard, calculator | Underpins all | Underpins all | The destination every sequence points at |
 
-**Refused: automated outreach sequencing, volume cold email, paid social.** Reasoning in
-`relationship-engine.md`. There are no prompts for them in `../prompts/common-tasks.md`, which is a
-rule expressed as an absence.
+**Refused: paid social.** It returns no named contact the two primary channels can then work.
+
+**Constraints inside the two primary channels.** Sunday to Thursday, never Friday, paused for
+Ramadan. No merge tag beyond first name and company. Sending domains separate from the primary
+domain. The Dream 100 on a permanent suppression list in both tools. Method in
+`relationship-engine.md`.
 
 ## The build sequence, by return per week of founder time
 

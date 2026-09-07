@@ -5,74 +5,81 @@ behind the channel this go-to-market actually runs on. Every template points bac
 
 ## The thesis
 
-Two channels carry about sixty-five percent of expected qualified pipeline and neither can be
-automated: events and physical presence at about thirty-five percent, warm introduction and the
-sponsor network at about thirty. Founder writing at about fifteen exists to make the introduction
-possible. Messaging after introduction, at about ten, is an accelerant across all of them. **The
-founder's calendar, not an advertising budget, is the constraint on this funnel.** That is not a
-preference. Against twenty named accounts and a delivery ceiling of four to six deployments a year,
-a volume channel spends money reaching people who cannot buy.
+Two channels carry about fifty-five percent of expected qualified pipeline and both are outbound at
+scale: **Instantly for cold email at about thirty percent, HeyReach for LinkedIn at about
+twenty-five**. Events at about fifteen and warm introduction at about fifteen now feed and convert
+them rather than carrying the funnel alone. Founder writing at about five is what makes HeyReach
+acceptance rates work. Messaging apps are an accelerant once a reply has landed.
 
-## Why three channels are refused
+**The delivery ceiling, not the top of the funnel, is now the constraint.** Against a ceiling of four
+to six deployments a year, two channels that can outrun the founder's calendar are only an advantage
+if qualification happens before that calendar fills. That is what the 200-seat floor in the booking
+form is for.
 
-Automated outreach sequencing aimed at a Saudi security officer or chief executive reads as
-disrespect in a business culture built on personal introduction, and it degrades the founder's own
-profile, which is the asset the two largest channels depend on.
+## How these two channels have to be run here
 
-Volume cold email has negligible response where senior executives conduct real business in person
-and on messaging apps, with email working as a confirmation medium rather than a conversation one.
-Paid social optimises for volume against a total addressable market of roughly twenty accounts. The
-refusal is a rule, not a preference. It appears in the router, the writing rules, the claim ledger
-and the checklist, because a direct request to produce for one of them arrives eventually.
+The market observations that once argued for refusing them are still true. They survive as execution
+constraints rather than as a refusal, and they decide whether the tools work or burn the estate.
+
+**Timing.** Sunday to Thursday, never Friday, paused for Ramadan. Sending outside Riyadh working
+hours is the clearest possible signal that no human sent it.
+
+**Names and titles.** No merge tag beyond first name and company, every Arabic first name
+transliteration verified before send. A mistransliterated name in line one ends the conversation, and
+a CISO and an IT manager need different sequences.
+
+**Infrastructure.** Sending domains separate from the primary domain, warmed fourteen days minimum,
+capped at thirty to fifty sends per inbox per day. HeyReach never sends from the founder's own
+profile, because that profile is the credibility layer the channel depends on.
+
+**The Dream 100 is suppressed in both tools, permanently.** An account on that list which receives an
+automated first touch has been spent, and the sponsor path with it.
+
+## What is still refused
+
+Paid social. It optimises for volume against a narrow addressable list and, unlike the two outbound
+channels, returns no named contact that can then be worked.
 
 ## The four archetypes to rotate in founder writing
 
-**The instrument explainer.** One regulatory instrument per post: what it says, what it means for an
-artificial intelligence decision, what to ask a vendor. Cited to the instrument, no product mention.
-This is how a two-person company becomes credible to a security officer who has never heard of it,
-and it compounds and cannot be shortcut.
+**The instrument explainer.** One instrument per post: what it says, what it means for an artificial
+intelligence decision, what to ask a vendor. Cited, no product mention. This is how a two-person
+company becomes credible to a security officer who has never heard of it, and it cannot be shortcut.
 
-**The cost-shock note.** A public fact from the 2026 record, the mechanism behind it, and what a
-finance director should do about it this quarter. Never gloating about a competitor: the reader may
-own the product being discussed and will stop reading if it feels like an attack.
+**The cost-shock note.** A public fact from the 2026 record, the mechanism, and what a finance
+director should do this quarter. Never gloating: the reader may own the product being discussed.
 
-**The fair checklist.** Questions a buyer can put to every vendor including Wolffish, and they must
-be genuinely answerable by a competitor. A transparently rigged checklist fails with exactly the
-audience it is aimed at.
+**The fair checklist.** Questions a buyer can put to every vendor including Wolffish, genuinely
+answerable by a competitor. A transparently rigged checklist fails with the audience it targets.
 
-**The build note.** What broke, what it cost, what was learned. Requires a live deployment and
-customer consent, and must include something that went wrong or it stops working as evidence.
+**The build note.** What broke, what it cost, what was learned. Needs a live deployment and customer
+consent, and must include something that went wrong or it stops working as evidence.
 
 ## The plan, write, edit method
 
-**Plan.** Name the audience and the chair before the first sentence. Pick one archetype. Decide
-which regulatory or cost fact anchors it, and check that fact against `saudi-regulatory-file.md` or
-the claim ledger before writing rather than after. **Write.** Arabic first where the channel is
-Arabic-first, natively rather than translated. Open with the fact, not with a claim. One idea per
-post. End without a call to action in six posts out of eight, because standing is the product of
-this channel and clicks are not. **Edit.** Run the checklist. Strip every adjective a number could
-replace. Confirm each capability carries its flag and no proof point outside the closed set appears.
-Read it once imagining a security officer who has been sent it by a peer.
+**Plan.** Name the audience and pick one archetype. Check the anchoring fact against
+`saudi-regulatory-file.md` before writing, not after. **Write.** Arabic natively where the channel is
+Arabic-first. Open with the fact. One idea per post, and no call to action in six posts out of eight.
+**Edit.** Strip every adjective a number could replace, confirm each capability carries its flag, and
+read it once imagining a security officer sent it by a peer.
 
-## Events, the highest-yield channel
+## Events, now a source of contacts rather than a funnel
 
 Two fixed dates carry the year: the national artificial intelligence summit in September and the
 regional security conference in December. Both put the security officer, the technology lead and
-often the decision maker in one building for three days, which compresses a six-week evaluation into
-three. Speaking converts better than exhibiting at the summit, where the audience is
-regulator-adjacent and a vendor pitch lands badly. The stand carries one question and a code,
-nothing else, because a feature panel is indistinguishable from forty others.
+often the decision maker in one building for three days. Speaking converts better than exhibiting at
+the summit, where a vendor pitch lands badly. **The output that matters now is named, verified
+contacts with titles**, which is what the two primary channels then work.
 
-## The sponsor path
+## The sponsor path, Dream 100 only
 
-The sponsor map is the actual top of this funnel: for each of the twenty named accounts, who could
-credibly introduce, what the introduction costs them socially, and what would make it reflect well
-on them. The asset is a paragraph under eighty words that a sponsor forwards without endorsing. No
-attachment, no deck, no tracked link. A tracked link inside a personal introduction reads as a
-campaign and costs the sponsor's credibility, which is the one thing that cannot be rebought.
+For each Dream 100 account: who could credibly introduce, what it costs them socially, and what makes
+it reflect well on them. The asset is a paragraph under eighty words a sponsor forwards without
+endorsing. No attachment, no deck, no tracked link, because a tracked link inside a personal
+introduction reads as a campaign and costs the sponsor's credibility.
 
 ## What good looks like
 
-Not impressions. Qualified conversations per quarter, security calls booked, and the honest decline
-rate. **Declining above fifteen percent of security calls is a target, not an accident.** Where
+Not impressions, and not sends. Reply rate, qualified conversations per quarter, security calls
+booked, and the honest decline rate. **Declining above fifteen percent of security calls is a target, not an accident.** Where
 security officers talk constantly, the vendor who said "we are not a fit" gets called next time.

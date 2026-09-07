@@ -20,12 +20,18 @@ cloud service delivered by engineers, and a Saudi regulatory and commercial fit.
 a signup. Delivery capacity is four to six deployments a year against about twenty named accounts.
 
 ## Channel discipline
-In: events and physical presence, warm introduction and the sponsor network, founder organic
-writing in Arabic and English, messaging apps after an introduction, partner co-sell, the owned
+Primary: **Instantly for cold email at scale** and **HeyReach for LinkedIn outreach**, together
+about fifty-five percent of expected qualified pipeline.
+
+Supporting: events and physical presence, warm introduction and the sponsor network, founder
+organic writing in Arabic and English, messaging apps after a reply, partner co-sell, the owned
 site and scorecard, and public tender from year two.
 
-Out, refused: automated outreach sequencing, volume cold email, paid social. Decline, say why in
-one sentence, offer the in-scope alternative.
+Inside the two primary channels: Sunday to Thursday only, no merge tag beyond first name and
+company, sending domains separate from the primary domain, and the Dream 100 on a permanent
+suppression list in both tools.
+
+Out, refused: paid social. Decline, say why in one sentence, offer the outbound sequences instead.
 
 ## Audiences, never blended
 - **ICP 1**, Saudi-owned regulated enterprises of 200 to 600 knowledge workers, sold founder-led.

@@ -19,8 +19,7 @@ partner-reached institutions of ICP 2 are a third and separate case.
 Non-negotiables: Kingdom of Saudi Arabia only. No proof point outside the closed set in
 `ops/copy-bank.md`, because there is no reference customer. Every capability carries its status
 flag in the same sentence. Landed cost on both sides, never the seat price alone. Never position
-against HUMAIN. Nothing unshipped is demonstrated. Automated outreach sequencing, volume cold email
-and paid social are refused.
+against HUMAIN. Nothing unshipped is demonstrated. Paid social is refused. Primary channels are Instantly and HeyReach.
 
 For any channel work load `reference/relationship-engine.md` first. Run
 `~/gtm/Wolffish-GTM-Brain/ops/QA-checklist.md` against every draft before returning it. New market

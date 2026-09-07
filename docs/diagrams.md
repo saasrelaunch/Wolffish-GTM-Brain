@@ -323,10 +323,11 @@ Three channels are refused outright rather than deprioritised:
 
 ```mermaid
 flowchart LR
-    R1["Automated outreach sequencing"] -->|"reads as disrespect in a culture<br/>built on personal introduction,<br/>and degrades the founder profile<br/>the two largest channels depend on"| X(("REFUSED"))
-    R2["Volume cold email"] -->|"negligible response where senior<br/>executives do business in person;<br/>email is a confirmation medium"| X
-    R3["Paid social"] -->|"optimises for volume against a<br/>market of about twenty accounts"| X
-    X --> ALT["Offer instead: the introduction path,<br/>an event conversation, or a founder post"]
+    P1["Instantly · cold email at scale"] --> IN(("PRIMARY<br/>~30%"))
+    P2["HeyReach · LinkedIn outreach"] --> IN2(("PRIMARY<br/>~25%"))
+    R3["Paid social"] -->|"optimises for volume against a narrow list,<br/>and returns no named contact<br/>the two primary channels can work"| X(("REFUSED"))
+    R4["Any automated first touch<br/>into a Dream 100 account"] -->|"the account is spent,<br/>and the sponsor path with it"| X
+    X --> ALT["Offer instead: the outbound sequences,<br/>or an introduction for a Dream 100 account"]
 ```
 
 Source: `../reference/relationship-engine.md`, `../reference/marketing-campaigns.md`.
@@ -370,8 +371,8 @@ outputs it prevents.
 flowchart TD
     REQ(["A request arrives"]) --> Q1{"Is it for a market<br/>outside Saudi Arabia?"}
     Q1 -->|Yes| NO1["Decline. Say the go-to-market<br/>is Kingdom-only and why."]
-    Q1 -->|No| Q2{"Is it for sequencing,<br/>volume cold email<br/>or paid social?"}
-    Q2 -->|Yes| NO2["Decline. One-sentence reason,<br/>then offer the in-scope alternative."]
+    Q1 -->|No| Q2{"Is it paid social, or an automated<br/>first touch into a Dream 100 account?"}
+    Q2 -->|Yes| NO2["Decline. For paid social, offer the<br/>outbound sequences. For a Dream 100 account,<br/>the opening is an introduction."]
     Q2 -->|No| Q3{"Does it need a customer name,<br/>quote, count or metric?"}
     Q3 -->|Yes| NO3["Decline that element.<br/>There is no reference customer.<br/>Offer the architecture or the<br/>published price instead."]
     Q3 -->|No| Q4{"Does it demonstrate anything<br/>flagged IN BUILD or ROADMAP?"}

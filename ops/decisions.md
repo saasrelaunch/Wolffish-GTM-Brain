@@ -9,6 +9,43 @@ source material or resolved with the founder during the build.
 
 ---
 
+## 2026-09-07 Instantly and HeyReach become the two primary channels (DECIDED, reverses a prior decision)
+
+Cold email at scale through Instantly and LinkedIn outreach through HeyReach are now the primary
+outbound channels, carrying roughly thirty and twenty-five percent of expected qualified pipeline.
+Events, warm introduction, founder writing, partner co-sell, tender and the owned layer are
+supportive or scaling around them.
+
+**This reverses the entry below dated 2026-09, "Three channels refused outright."** That decision
+banned automated sequencing and volume cold email on the grounds that they read as disrespect to a
+Saudi security officer and degrade the founder's profile. The founder has confirmed both tools are
+in use and are the engine. The reasoning is not discarded, it is demoted from a refusal to a set of
+execution constraints, because the observations behind it still decide whether these tools work or
+burn the sending estate.
+
+**The constraints that survive, and they are rules:** Sunday to Thursday sending, never Friday,
+paused for Ramadan. No merge tag beyond first name and company, with every Arabic first name
+transliteration verified before send. Sending domains separate from the primary domain, warmed
+fourteen days minimum. HeyReach never sends from the founder's own profile. The Dream 100 sits on a
+permanent suppression list in both tools and is opened by introduction only.
+
+**What this does not change:** paid social is still refused. The 200-seat qualification floor and the
+four-to-six deployment ceiling are unchanged, and they now matter more rather than less. The
+security call remains the single call to action for every sequence. Warm introduction is still the
+highest-converting path per account, it is simply now reserved for the Dream 100 instead of being
+asked to carry the whole funnel.
+
+**What this changes about the binding constraint.** The earlier model treated the top of the funnel
+as the scarce thing. With two channels that can outrun the founder's calendar, the delivery ceiling
+becomes the constraint, which is why qualification moved into the booking form ahead of the call.
+
+**Downstream, all applied 2026-09-07:** `rules/writing-rules.md`, `rules/do-not-say.md`, `CLAUDE.md`,
+`AGENTS.md`, `ops/QA-checklist.md`, `prompts/common-tasks.md`,
+`reference/relationship-engine.md`, `reference/marketing-campaigns.md`, the master context.
+Still outstanding: the tool adapters, the portable control layer, `docs/`, and the Miro board.
+
+---
+
 ## 2026-09 Kingdom of Saudi Arabia only (DECIDED)
 
 Every ICP, price, channel, instrument and claim in this brain is scoped to Saudi Arabia. The brain
@@ -72,7 +109,11 @@ still scale, because they cost founder time once rather than per account.
 
 ---
 
-## 2026-09 Three channels refused outright (DECIDED)
+## 2026-09 Three channels refused outright (SUPERSEDED 2026-09-07, see the entry above)
+
+**Superseded in part.** Only paid social is still refused. Automated sequencing and volume cold
+email are now the two primary channels, run through HeyReach and Instantly. The reasoning below is
+retained because it became the execution constraints on those tools rather than being discarded.
 
 Automated outreach sequencing, volume cold email and paid social are refused, not deprioritised.
 The brain declines requests to produce for them.

@@ -48,6 +48,9 @@ day it goes live.
 - Founder profiles on the writing channel: pending.
 - One-page bilingual leave-behind, two versions: pending, see `../templates/one-pager.md`.
 - Compliance Evidence Pack: IN BUILD, internal until Saudi counsel has reviewed it.
+- Long-form landing page, security officer version: drafted, not published. Markdown and DOCX in
+  `../pages/`. Every figure in it reconciles to `../reference/pricing-model.md`, so grep it first
+  when a price changes.
 
 ## Adapters, and who runs which tool
 

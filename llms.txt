@@ -49,6 +49,8 @@
 - `pages/`: finished long-form assets. Update rather than rewrite.
 - [Security officer site page](pages/security-officer-site-page.md): the live-test asset, produced
   using only this brain.
+- [Landing page, security officer](pages/landing-page-security-officer.md): the long-form
+  conversion page, 14-section anatomy, built from this brain. DOCX alongside it in `pages/`.
 
 ## Operations and state
 - `ops/copy-bank.md`: approved language and the closed set of proof points, safe to reuse verbatim.

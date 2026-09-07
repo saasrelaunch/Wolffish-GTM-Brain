@@ -3,11 +3,34 @@
 Filled, runnable prompts. Each assumes the agent has already read `../CLAUDE.md` and will load the
 files the prompt names. Copy one, fill the square brackets, run it.
 
-**There is no automated outreach sequencing in this go-to-market, so there are no sequencing
-prompts. There is no volume cold email, so there are no cold email prompts. There is no paid
-social, so there are no ad prompts.** That absence is the rule. If asked for one of the three,
-decline, say why in one sentence, and offer the in-scope alternative from
-`../reference/relationship-engine.md`.
+**There is no paid social in this go-to-market, so there are no ad prompts.** That absence is the
+rule. If asked, decline, say why in one sentence, and offer the outbound sequences instead.
+
+**Instantly and HeyReach are the two primary channels and they have prompts below.** Every one of
+them inherits the same constraints: Sunday to Thursday sending, no merge tag beyond first name and
+company, verified Arabic transliteration, and the Dream 100 suppressed.
+
+## Write an Instantly sequence
+
+"Write Sequence [A, signal-based / B, the audit offer] for Instantly, targeting [title] at [segment].
+Follow `reference/relationship-engine.md` for the constraints and `templates/` for the voice. Under
+120 words per step, one call to action per email, no merge tag beyond first name and company. For
+Sequence A the public signal goes in line one with its link. Give me every step with its day offset.
+Then QA against `ops/QA-checklist.md`, including the Dream 100 suppression check."
+
+## Write a HeyReach connection request and sequence
+
+"Write the HeyReach connection request note plus the three-step post-acceptance sequence for [title]
+at [segment]. The request note is under 250 characters with no link. Messages under 80 words, stop on
+reply. Follow `reference/relationship-engine.md`. Confirm the target list excludes the Dream 100,
+then QA against `ops/QA-checklist.md`."
+
+## Diagnose a sequence that is not converting
+
+"Here are the numbers for [sequence]: [paste opens, replies, bounces, acceptance rate]. Diagnose it
+against `reference/relationship-engine.md`. Check the order that matters: deliverability and bounce
+rate first, then title accuracy and list quality, then the first line, then the offer. Do not
+recommend more volume until the first three are ruled out." 
 
 ## Write a founder post
 

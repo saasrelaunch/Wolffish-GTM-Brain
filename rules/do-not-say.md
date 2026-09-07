@@ -18,7 +18,7 @@ without a replacement, because a ban with no alternative gets ignored by whoever
 | "Cheaper than Microsoft" or any lowest-cost claim | "Microsoft's assistant is cheaper per seat. Compare what each is allowed to do." |
 | "More sovereign than" the national champion, or any comparison with it | "Different products. If you want the national model, we run on it. You will probably buy both." |
 | Prices, tiers or terms for the deployment scope ladder as though contracted | The published three lines only. The ladder is proposed and not yet in any contract. |
-| Any output for automated outreach sequencing, volume cold email or paid social | Decline, name the reason, and offer the events, introduction or founder-writing alternative. |
+| Any output for paid social, or any automated first touch into a Dream 100 account | Decline. For paid social, offer the outbound sequences instead. For a Dream 100 account, the opening is an introduction, never a sequence. |
 | "AI spend governance" as the category | "In-perimeter agentic workforce platform." |
 | Arabic-first described as complete | "Arabic interface, prompting and output, partial today." Name the surface. |
 | Any capability demonstrated on video or in a live demo that is not SHIPPED | Demonstrate only SHIPPED capabilities. Describe the rest. |
@@ -31,7 +31,9 @@ capability cannot be named with its flag in the sentence, cut the capability fro
 **Arabic assets.** Never publish machine-translated Arabic. A translated headline reads as
 translated and undermines the Arabic-first claim in the same breath as making it.
 
-**Messaging apps.** No unsolicited first contact. The channel is for after an introduction only.
+**Messaging apps.** No unsolicited first contact. WhatsApp is for after a reply has landed, never as an opener.
+
+**Outbound sequences.** Instantly and HeyReach are in scope and are the primary channels. Two things stay banned inside them: any first touch into a Dream 100 account, and any merge tag beyond first name and company. A mistransliterated Arabic first name in line one ends the conversation and is a claim-hygiene failure, not a formatting one.
 
 **Public tender responses.** No claim in a submission that is not in this ledger. A tender
 document is a legal representation and it is read by people who check.

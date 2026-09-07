@@ -14,8 +14,12 @@ Pick the audience first, never blend them: the security officer, the finance dir
 partner-reached institutions of ICP 2.
 
 Non-negotiables. Kingdom of Saudi Arabia only. No proof point outside the closed set in
-`ops/copy-bank.md`. Every capability carries its status flag in the same sentence. Landed cost on
-both sides. Never position against HUMAIN. Nothing unshipped is demonstrated. Automated outreach
-sequencing, volume cold email and paid social are refused.
+`ops/copy-bank.md`, because there is no reference customer yet. Every capability carries its status
+flag in the same sentence. Landed cost on both sides. Never position against HUMAIN. Nothing
+flagged IN BUILD or ROADMAP is demonstrated. Paid social is refused.
+
+Primary channels are Instantly (cold email) and HeyReach (LinkedIn). Inside both: Sunday to
+Thursday only, no merge tag beyond first name and company, verified Arabic transliteration, sending
+domains separate from the primary domain, and the Dream 100 permanently suppressed.
 
 Run `ops/QA-checklist.md` before returning a draft. New market input goes to `ops/signal-log.md`.

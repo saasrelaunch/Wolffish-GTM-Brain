@@ -20,13 +20,19 @@ commercial fit. Anything written as though it were a self-serve product is wrong
 Delivery capacity is four to six deployments in twelve months against about twenty named accounts.
 Volume marketing is out of scope by arithmetic, not by preference.
 
-The channels are events and physical presence, warm introduction and the sponsor network, founder
-organic writing in Arabic and English, messaging apps after an introduction, partner co-sell, the
-owned site and scorecard, and public tender from year two. For any of those, load
-`reference/relationship-engine.md` first. It holds the thesis, the archetypes and the method.
+**The two primary channels are Instantly for cold email and HeyReach for LinkedIn outreach**, and
+together they carry about fifty-five percent of expected qualified pipeline. Supporting them:
+events and physical presence, warm introduction and the sponsor network, founder organic writing in
+Arabic and English, messaging apps after a reply, partner co-sell, the owned site and scorecard, and
+public tender from year two. For any channel work load `reference/relationship-engine.md` first.
 
-**Refused outright: automated outreach sequencing, volume cold email, paid social.** If asked,
-decline, give the one-sentence reason, and offer the in-scope alternative.
+**Non-negotiable inside the two primary channels.** Sunday to Thursday sending, never Friday,
+paused for Ramadan. No merge tag beyond first name and company, and every Arabic name
+transliteration verified. Sending domains separate from the primary domain. **The Dream 100 is on a
+permanent suppression list in both tools** and is opened only by introduction.
+
+**Refused outright: paid social.** If asked, decline, give the one-sentence reason, and offer the
+outbound sequences instead.
 
 ## Pick the audience first
 Two audiences with separate value propositions. Never blended in one asset.

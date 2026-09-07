@@ -3,8 +3,8 @@ title: Wolffish Cloud Go-To-Market Master Context
 project: Wolffish Cloud
 type: gtm_context_file
 purpose: Single source of truth for any AI agent or human operator executing Wolffish Cloud go-to-market work in the Kingdom of Saudi Arabia.
-version: 1.0
-last_updated: 2026-09-04
+version: 1.1
+last_updated: 2026-09-07
 status_notes: Kingdom of Saudi Arabia only, do not produce for any other market. No reference customer exists yet, so no logo, quote, metric or case study may be cited. The capability allowance that bounds ongoing capability development is proposed and not contracted, so the phrase "no new invoice" must not appear in any proposal. Pricing is published and fixed. The offer matrix is unreconciled between two blocks; the founder block governs. Deployment capacity is four to six customers in twelve months, so volume marketing is out of scope by arithmetic, not preference.
 canonical_vocabulary: Wolffish Cloud, agentic harness, platform control plane, cloud service, Saudi regulatory fit, in-perimeter, zero-retention endpoint, capability allowance, deployment scope ladder, landed cost, pass-through, Compliance Evidence Pack, Agent Exposure and Spend Audit, Kingdom AI Exposure Scorecard, security call, pilot cohort, capability, seat
 ---
@@ -36,8 +36,10 @@ Six hard guardrails. These are absolute.
 - **Landed cost on both sides, always.** Never quote the SAR 79 seat against a competitor seat
   price. That comparison hides a third of the cost and a competent finance director will catch it.
 - **Never position against HUMAIN.** Neutralise, do not compete. One sentence, then move on.
-- **Three channels are refused outright.** Automated outreach sequencing, cold email at volume,
-  and paid social. If asked for them, decline and offer the in-scope alternative.
+- **Two primary channels: Instantly for cold email, HeyReach for LinkedIn.** They carry about
+  fifty-five percent of expected pipeline. Sunday to Thursday only, no merge tag beyond first name
+  and company, verified Arabic transliteration, Dream 100 permanently suppressed in both tools.
+- **Paid social is refused.** If asked, decline and offer the outbound sequences instead.
 
 ## 1. House writing rules
 
@@ -279,10 +281,14 @@ are conceded openly and early.
 **Never position against the national champion.** The gap on sovereign legitimacy cannot be
 closed, only made irrelevant.
 
-**Three channels are refused.** Automated outreach sequencing, volume cold email, and paid social.
-Against twenty named accounts and a delivery ceiling of four to six, they spend money reaching
-people who cannot buy, and automation aimed at a Saudi security officer damages the founder's own
-profile, which is the asset the two largest channels depend on.
+**Two channels are primary and both are outbound at scale.** Instantly at about thirty percent and
+HeyReach at about twenty-five. Events and warm introduction now feed and convert them rather than
+carrying the funnel alone. The delivery ceiling of four to six, not the top of the funnel, is the
+binding constraint, which is why the 200-seat floor is enforced in the booking form before a call
+rather than on it.
+
+**Paid social is refused.** Unlike the two outbound channels it returns no named contact that can
+then be worked.
 
 **The security call comes before the economic conversation.** This inverts the standard sequence
 deliberately.
@@ -409,7 +415,7 @@ assets, the cost calculator, the sponsor map, the leave-behind, the bilingual si
 Compliance Evidence Pack, which is six weeks and the largest single build, and which makes the
 second deal's evaluation materially shorter than the first.
 
-Three channels are refused and the refusal is recorded as an absence in the prompt library.
+Paid social is refused. The two primary outbound channels have their own prompts in the library.
 
 ## 15. Quick-reference execution cheatsheet
 
@@ -431,6 +437,6 @@ The facts an operator looks up most.
 - **Signature reframe.** Everyone offers residency. We offer the absence of a data path.
 - **The hardest objection.** Why not the national champion. Answer: different products, and we run on their endpoint if you want their model. You will probably buy both.
 - **Primary rival in practice.** The Saudi systems integrator, not any AI vendor.
-- **Refused channels.** Automated outreach sequencing, volume cold email, paid social.
+- **Primary channels.** Instantly (email) and HeyReach (LinkedIn). **Refused:** paid social.
 - **Mechanics.** No em dashes. No banned words. Bilingual or it does not ship.
 - **The one thing never to say.** Any customer name, logo, quote, metric or case study. None exists.

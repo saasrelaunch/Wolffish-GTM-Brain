@@ -201,9 +201,13 @@ has to be reconstructed out loud, differently each time.
 
 ## What this brain deliberately does not do
 
-It does not produce for automated outreach sequencing, volume cold email or paid social. Those are
-refused, with the reasoning in `reference/relationship-engine.md`. There are no prompts for them in
-`prompts/common-tasks.md`, which is a rule expressed as an absence.
+It does not produce for paid social. That is refused, with the reasoning in
+`reference/relationship-engine.md`, because unlike the two primary outbound channels it returns no
+named contact that can then be worked.
+
+Instantly and HeyReach are the two primary channels and they have their own prompts. What the brain
+still refuses inside them is any automated first touch into a Dream 100 account, and any merge tag
+beyond first name and company.
 
 It does not invent a proof point. Where a fact is missing the honest output is a gap, not a
 plausible number.

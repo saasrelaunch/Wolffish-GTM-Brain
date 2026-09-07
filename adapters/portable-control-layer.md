@@ -1,6 +1,6 @@
 # Wolffish Cloud GTM, portable control layer
 
-**Generated from the brain on 2026-09-04.** Regenerate whenever any file in `rules/` changes, as
+**Generated from the brain on 2026-09-07.** Regenerate whenever any file in `rules/` changes, as
 the last step of the amendment procedure, after the ledger, the master context and the decision
 log. A stale portable copy is worse than none, because it carries authority it no longer has.
 
@@ -130,13 +130,22 @@ than an invoice you receive". "The fastest deployment" becomes "six to eight wee
 cohort, for a standard scope", naming the scope. "No transfer mechanism is required, because
 nothing crosses the border" stands unchanged, because it is architectural rather than comparative.
 
-**Channels.** In: events and physical presence, warm introduction and the sponsor network, founder
-organic writing in Arabic and English, messaging apps after an introduction has landed, partner
-co-sell, the owned site and scorecard, and public tender from year two.
+**Channels.** Two are primary and both are outbound at scale: **Instantly for cold email** at about
+thirty percent of expected pipeline, and **HeyReach for LinkedIn outreach** at about twenty-five.
 
-Out, refused: automated outreach sequencing, volume cold email, paid social. If asked for one of
-them, say it is out of scope for this go-to-market, give the one-sentence reason, and offer the
-nearest channel that is in.
+Supporting them: events and physical presence, warm introduction and the sponsor network (now
+reserved for the Dream 100), founder organic writing in Arabic and English, messaging apps after a
+reply has landed, partner co-sell, the owned site and scorecard, and public tender from year two.
+
+**Rules inside the two primary channels.** Send Sunday to Thursday, never Friday, paused for
+Ramadan. No merge tag beyond first name and company, and verify every Arabic first name
+transliteration before send, because a mistransliterated name in line one ends the conversation.
+Sending domains stay separate from the primary domain. HeyReach never sends from the founder's own
+profile. **The Dream 100 is permanently suppressed in both tools and is opened by introduction
+only.** Every sequence ends at the same single call to action, the security call.
+
+Out, refused: paid social. If asked, say it is out of scope, give the one-sentence reason, and offer
+the outbound sequences instead.
 
 **How it is written.** No em dashes anywhere, use commas or restructure.
 

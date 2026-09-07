@@ -18,8 +18,9 @@ Cheapest checks first.
 ## 2. Channel
 
 - [ ] This is a channel this go-to-market produces for.
-- [ ] It is not automated outreach sequencing, volume cold email, or paid social.
-- [ ] If the request was for a refused channel, the draft declines, names the reason, and offers the in-scope alternative.
+- [ ] It is not paid social. If it was, the draft declines and offers the outbound sequences instead.
+- [ ] **If this is an Instantly or HeyReach asset:** no merge tag beyond first name and company; every Arabic first name transliteration verified; send window is Sunday to Thursday; one call to action, not two.
+- [ ] **If this targets a named account:** that account is not on the Dream 100 suppression list. A Dream 100 account is opened by introduction, never by a sequence.
 
 ## 3. Claims
 
